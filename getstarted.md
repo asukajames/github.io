@@ -61,7 +61,7 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 <div class="gs-section-01" markdown="1">
 
-### <h3> 1. Fork the Beautiful Jekyll repository </h3>
+###  1. Fork the Beautiful Jekyll repository 
 
 <p1> Fork the [repository](https://github.com/daattali/beautiful-jekyll) 
 by clicking the Fork button on the top right corner in GitHub. </p1>
@@ -71,7 +71,7 @@ by clicking the Fork button on the top right corner in GitHub. </p1>
 
 <div class="gs-section-02" markdown="1">
 
-### <h4> 2. Rename the project to `<yourusername>.github.io` </h4>
+###  2. Rename the project to `<yourusername>.github.io` 
 
 <p2>Click on __*Settings*__ at the top (the cog icon) and on that page you'll have an option to rename the project (*Repository name*). This will create a website with the **Beautiful Jekyll** template that will be available at `https://<yourusername>.github.io` within a couple minutes (check out the [FAQ](https://beautifuljekyll.com/faq/#custom-domain) if you want to use a different project name). If after a few minutes your website is still not ready, try making any edit to any file, just to force GitHub to re-build your site. </p2>
 
@@ -79,13 +79,15 @@ by clicking the Fork button on the top right corner in GitHub. </p1>
 
 <div class="gs-section-03" markdown="1">
 
-### <h5> 3. Customize your website settings </h5>
+###  3. Customize your website settings 
 
 <p3>Edit the `_config.yml` file to change any settings you want. To edit the file, click on it to view the file and then click on the pencil icon to edit it (watch the video tutorial above if you're confused).  The settings in the file are self-explanatory and I added comments inside the file to help you understand what each setting does. Any line that begins with a hashtag (`#`) is a comment, and the other lines are actual settings.
 
 Note that in the video above I only edited one setting in the `_config.yml` file. **You should actually go through the rest of the settings as well. Don't be lazy, go through all the settings!** </p3>
 
 </div>
+
+<div class="gs-section-04" markdown="1">
 
 ### 4. Congratulations! You have a website!
 
@@ -232,33 +234,31 @@ This template was not made *entirely* from scratch. I'd like to give special tha
 I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/), [Jekyll Themes](http://jekyllthemes.org/), and another [Jekyll Themes](http://jekyllrc.github.io/jekyllthemes/) for featuring Beautiful Jekyll in their Jekyll theme directories.
 
 
-
 <style>
 
-.gs-section-01 h3 {
-  color: darkred;
-  font-size: 40px;
-}
+.gs-section-01 h1 {
+  color: CadetBlue;
+  font-size: 50px;
+  font-family: Monaco;
+  }
 
-.gs-section-01 p1 {
-     font-size: 30px;
-}
-.gs-section-02 h4 { 
-     color: blue;
-     font-size: 100px;}
+ .gs-section-02 h2 {
+  color: gray25;
+  font-size: 30px;
+  font-family:Liberation Mono;
+  }
 
-.gs-section-02 p2 {
-     font-size: 30px;
-}
-.gs-section-03 h5 { 
-     color: green;
-     font-size: 200px;}
+  .gs-section-03 h3 {
+  color: CadetBlue;
+  font-size: 50px;
+  font-family: Bitstream Vera Sans Mono;
+  }
 
-.gs-section-03 p3 {
-     font-size: 30px;
-}
+  .gs-section-04 h4 {
+  color: gray25;
+  font-size: 30px;
+  font-family: DejaVu Sans Mon;
+  }
 
 </style>
-
-  
 
