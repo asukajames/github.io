@@ -63,8 +63,8 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 ###  1. Fork the Beautiful Jekyll repository 
 
-<p1> Fork the [repository](https://github.com/daattali/beautiful-jekyll) 
-by clicking the Fork button on the top right corner in GitHub. </p1>
+Fork the [repository](https://github.com/daattali/beautiful-jekyll) 
+by clicking the Fork button on the top right corner in GitHub. 
 
 
 </div>
