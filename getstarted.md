@@ -66,7 +66,6 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 Fork the [repository](https://github.com/daattali/beautiful-jekyll) 
 by clicking the Fork button on the top right corner in GitHub. 
 
-
 </div>
 
 <div class="gs-section-02" markdown="1">
@@ -236,9 +235,11 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 
 <style>
 
-.gs-section-01 h1 {
-  color: CadetBlue;
-  font-size: 50px;
+.gs-section-01 h3 {
+  color: red }
+  
+ .gs-section-01 p {
+     font-size: 30px; 
   font-family: Monaco;
   }
 
