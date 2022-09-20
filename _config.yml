@@ -19,7 +19,8 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Getting Started: "getstarted"
-  Author's home: "https://deanattali.com"
+  Table Demo: 
+  Author's home: ""
 
 # --- Logo --- #
 
@@ -42,7 +43,7 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   facebook: deanattali
-  github: daattali
+  github: asukajames
   twitter: daattali
   patreon: DeanAttali
   youtube: c/daattali
