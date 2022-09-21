@@ -258,9 +258,9 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
   }
 
   .gs-section-04 h4 {
-  color: gray25;
+  color: deeppink;
   font-size: 30px;
-  font-family: DejaVu Sans Mon;
+  font-family: fantasy;
   }
 
 </style>
