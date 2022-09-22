@@ -246,20 +246,27 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
   }
 
  .gs-section-02 h2 {
-  color: gray25;
-  font-size: 30px;
-  font-family:Liberation Mono;
+  color: blue }
+  
+   .gs-section-02 p {
+     font-size: 30px; 
+  font-family: Monaco;
   }
+  
 
   .gs-section-03 h3 {
-  color: CadetBlue;
-  font-size: 30px;
+  color: CadetBlue }
+  
+  .gs-section-03 p {
+     font-size: 30px; 
   font-family: Bitstream Vera Sans Mono;
   }
 
   .gs-section-04 h4 {
-  color: deeppink;
-  font-size: 30px;
+  color: deeppink }
+  
+  .gs-section-04 p {
+     font-size: 30px; 
   font-family: fantasy;
   }
 
